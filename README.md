@@ -1,4 +1,4 @@
-# Secure-Loan-Verififaction-and-Approval-system
+# FairLend-Privacy-Preserving-Fair-Loan-Processing Public
 
 ## Introduction
 
