@@ -33,3 +33,25 @@ The aim is to design and develop a secure loan verification and approval system 
 - **Inclusive Financial Inclusion:** The system facilitates the equitable distribution of government benefit schemes for women and minorities, contributing to economic empowerment and social progress.
 
 
+## 📚 Citation
+
+If you use FairLend-Privacy-Preserving-Fair-Loan-Processing in your research, please cite the paper:
+
+```bash
+@article{rani2025icsthreatqa,
+  title   = {FairLend-Privacy-Preserving-Fair-Loan-Processing Public},
+  author  = {Kumar, Mahender and Epiphaniou, Gregory and Maple, Carsten},
+  journal = {Preprint},
+  year    = {2025}
+}
+```
+
+## Contributor 
+  - [Mahender Kumar](https://scholar.google.com/citations?user=Ppmct6EAAAAJ&hl=en)
+  - [Gregory Epiphaniou](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile/?wmgid=2175)
+  - [Carsten Maple](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile/?wmgid=1102)
+
+## Acknowledgements
+
+> This work is supported by the Engineering and Physical Sciences Research Council (EPSRC) through project EP/V051040/1, “Responsive Additive Manufacturing to Overcome Natural and Attack-based Disruption.”
+
