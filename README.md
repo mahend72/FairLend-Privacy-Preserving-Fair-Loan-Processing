@@ -16,7 +16,7 @@ Studies have shown that gender and caste-based discrimination can influence loan
 
 
 ## Aim
-The aim is to design and develop a secure loan verification and approval system that protects sensitive personal information and promotes inclusive financial inclusion.
+The aim is to design and develop a secure loan verification and approval system that protects sensitive personal information and encourages inclusive financial inclusion.
 
 ## Key Objectives
 - **Enhance Applicant Privacy:** Conceal sensitive information not directly relevant to the loan approval decision, such as gender and caste category, to prevent biased decision-making.
