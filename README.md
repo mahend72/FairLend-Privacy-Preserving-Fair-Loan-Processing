@@ -20,7 +20,7 @@ The aim is to design and develop a secure loan verification and approval system 
 
 ## Key Objectives
 - **Enhance Applicant Privacy:** Conceal sensitive information not directly relevant to the loan approval decision, such as gender and caste category, to prevent biased decision-making.
-- **Promote Government Benefit Schemes:** Ensure that loan decisions are based on objective criteria rather than personal biases or stereotypes and facilitate the equitable distribution of government support schemes for women and minorities.
+- **Promote Government Benefit Schemes:** Ensure that loan decisions are based on objective criteria rather than personal biases or stereotypes, and facilitate the equitable distribution of government support schemes for women and minorities.
 - **Address Bias in Loan Approval:** Employ homomorphic encryption and zero-knowledge proofs to enable bank officers to verify applicant eligibility without accessing confidential data.
 
 ## Technical Approach
