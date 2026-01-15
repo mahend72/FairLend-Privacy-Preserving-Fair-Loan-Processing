@@ -24,8 +24,8 @@ The aim is to design and develop a secure loan verification and approval system 
 - **Address Bias in Loan Approval:** Employ homomorphic encryption and zero-knowledge proofs to enable bank officers to verify applicant eligibility without accessing confidential data.
 
 ## Technical Approach
-- **Homomorphic Encryption:** Utilize homomorphic encryption to protect sensitive personal information during data transfer and computation. This enables the bank officer to verify the applicant's eligibility without decrypting the data.
-- **Zero-Knowledge Proofs:** Zero-knowledge proofs allow the system to verify the applicant's identity and financial information without disclosing the underlying data, safeguarding privacy and preventing unauthorized access.
+- **Homomorphic Encryption:** Utilise homomorphic encryption to protect sensitive personal information during data transfer and computation. This enables the bank officer to verify the applicant's eligibility without decrypting the data.
+- **Zero-Knowledge Proofs:** Zero-knowledge proofs allow the system to verify the applicant's identity and financial information without disclosing the underlying data, safeguarding privacy and preventing unauthorised access.
 
 ## System Benefits
 - **Privacy Protection:** The system protects sensitive personal information from unauthorized access and prevents biased decision-making based on non-relevant factors.
