@@ -28,7 +28,7 @@ The aim is to design and develop a secure loan verification and approval system 
 - **Zero-Knowledge Proofs:** Zero-knowledge proofs allow the system to verify the applicant's identity and financial information without disclosing the underlying data, safeguarding privacy and preventing unauthorised access.
 
 ## System Benefits
-- **Privacy Protection:** The system protects sensitive personal information from unauthorized access and prevents biased decision-making based on non-relevant factors.
+- **Privacy Protection:** The system protects sensitive personal information from unauthorised access and prevents biased decision-making based on non-relevant factors.
 - **Fairer Loan Approvals:** Loan decisions are based on objective criteria, such as the applicant's financial history and repayment capacity, promoting equitable access to financial services.
 - **Inclusive Financial Inclusion:** The system facilitates the equitable distribution of government benefit schemes for women and minorities, contributing to economic empowerment and social progress.
 
