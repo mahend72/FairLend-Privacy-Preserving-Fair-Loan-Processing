@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This tool is developed to address privacy concerns and possible biases in traditional loan approval processes. The system conceals sensitive personal information, such as gender and caste category, from bank officers to ensure unbiased decision-making based on objective criteria.
+This tool is developed to address privacy concerns and possible biases in traditional loan approval methodologies. The system conceals sensitive personal information, such as gender and caste category, from bank officers to ensure unbiased decision-making based on objective criteria.
 
 ## Background
 
