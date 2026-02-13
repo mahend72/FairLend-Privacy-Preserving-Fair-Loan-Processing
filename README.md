@@ -25,7 +25,7 @@ The aim is to design and develop a secure loan verification and approval system 
 
 ## Technical Approach
 - **Homomorphic Encryption:** Utilise homomorphic encryption to protect sensitive personal information during data transfer and computation. This enables the bank officer to verify the applicant's eligibility without decrypting the data.
-- **Zero-Knowledge Proofs:** Zero-knowledge proofs allow the system to verify the applicant's identity and financial information without disclosing the underlying data, safeguarding privacy and preventing unauthorised access.
+- **Zero-Knowledge Proofs:** Zero-knowledge proofs allow the system to verify the applicant's identity and financial information without revealing the underlying data, safeguarding privacy and preventing unauthorised access.
 
 ## System Benefits
 - **Privacy Protection:** The system protects sensitive personal information from unauthorised access and prevents biased decision-making based on non-relevant factors.
