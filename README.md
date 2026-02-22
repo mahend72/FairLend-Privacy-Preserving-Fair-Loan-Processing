@@ -10,7 +10,7 @@ Traditional loan approval processes often involve disclosing sensitive personal 
 
 ## Problem Statement
 
-Studies have shown that gender and caste-based discrimination can affect loan approval decisions, potentially leading to unfair and inequitable outcomes. This has delayed the economic empowerment of women and minorities, particularly in underserved communities.
+Studies have shown that gender and caste-based discrimination can affect loan approval decisions, potentially leading to unfair and inequitable results. This has delayed the economic empowerment of women and minorities, particularly in underserved communities.
 
 ![Usecase diagram of Secure loan verification and approval system](image/Usecase diagram of Secure loan verification and approval system.jpg)
 
